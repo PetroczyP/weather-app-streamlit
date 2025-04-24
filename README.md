@@ -36,7 +36,7 @@ A Streamlit web application that provides real-time weather information and fore
 
 ## Live Demo
 
-The application is deployed on Streamlit Community Cloud and can be accessed: <to-be-added>.
+The application is deployed on Streamlit Community Cloud and can be accessed: [<to-be-added>](https://weather-app-rbtdreams-pp.streamlit.app/)
 
 ## Created By
 
